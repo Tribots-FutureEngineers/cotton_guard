@@ -1,0 +1,26 @@
+# Ignore massive docker images / tarballs
+*.tar
+
+# Ignore raw image dataset directories (large files)
+Alternaria Leaf Spot Cotton/
+Fusaruim Wilt Cotton/
+bacterial/
+curl/
+
+# Ignore Python runtime artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+Thumbs.db
+db.sqlite3
+.DS_Store

@@ -1,0 +1,28 @@
+{
+  "idx_to_class": {
+    "0": "Alternaria Leaf",
+    "1": "Bacterial Blight - Critical",
+    "2": "Bacterial Blight - Mild",
+    "3": "Bacterial Blight - Moderate",
+    "4": "Curl Virus - Critical",
+    "5": "Curl Virus - Mild",
+    "6": "Curl Virus - Moderate",
+    "7": "Fussarium Wilt - Critical",
+    "8": "Fussarium Wilt - Mild",
+    "9": "Fussarium Wilt - Moderate",
+    "10": "Healthy"
+  },
+  "class_to_idx": {
+    "Alternaria Leaf": 0,
+    "Bacterial Blight - Critical": 1,
+    "Bacterial Blight - Mild": 2,
+    "Bacterial Blight - Moderate": 3,
+    "Curl Virus - Critical": 4,
+    "Curl Virus - Mild": 5,
+    "Curl Virus - Moderate": 6,
+    "Fussarium Wilt - Critical": 7,
+    "Fussarium Wilt - Mild": 8,
+    "Fussarium Wilt - Moderate": 9,
+    "Healthy": 10
+  }
+}
