@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/predict",
-      "destination": "https://YOUR_HF_USERNAME-YOUR_SPACE_NAME.hf.space/predict"
+      "destination": "https://sez98842-cotton-guard.hf.space/predict"
     }
   ]
 }
