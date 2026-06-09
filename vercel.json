@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/predict",
+      "destination": "https://YOUR_HF_USERNAME-YOUR_SPACE_NAME.hf.space/predict"
+    }
+  ]
+}
